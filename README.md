@@ -1,2 +1,2 @@
-# sql_practise
+# ML CODE
 sample sql queries
